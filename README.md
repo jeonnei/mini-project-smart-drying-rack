@@ -1,4 +1,4 @@
-# short-curriculum-mini-project
+# short-curriculum-mini-project(smart - drying rack)
 ## 1. 개발 배경 및 목적:
   - 시간에 따라 해의 위치가 바뀌고 그에 따라 베란다에 비치는 햇빛의 양이 다름
   - 높은 조도를 찾아 건조대를 이동
